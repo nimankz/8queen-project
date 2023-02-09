@@ -1,0 +1,1197 @@
+
+NO. 1 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   Q    F    F    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 2 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   Q    F    F    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    Q    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    Q    F    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 3 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   Q    F    F    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   F    F    F    Q    F    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 4 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   Q    F    F    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    F    F    Q    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 5 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    Q    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 6 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 7 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    Q    F    F    F    F
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 8 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 9 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    Q    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 10 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    Q    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 11 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    F    F    Q    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 12 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   Q    F    F    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   F    F    Q    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 13 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   F    F    F    Q    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 14 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 15 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    F    Q
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    Q    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 16 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    Q    F    F    F
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 17 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    Q    F    F    F    F
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 18 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    Q    F    F    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 19 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 20 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    Q    F    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 21 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   Q    F    F    F    F    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 22 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    F    Q
+2   F    F    F    Q    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 23 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 24 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    Q    F    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 25 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    F    Q    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 26 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   F    F    F    F    Q    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 27 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    F    Q    F    F    F    F    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 28 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   Q    F    F    F    F    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    F    Q    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 29 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 30 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    F    F    F    F    Q    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    Q    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 31 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    Q    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 32 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 33 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    F    Q
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   F    F    F    F    Q    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 34 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 35 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    Q    F    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 36 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    Q    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 37 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 38 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    F    Q    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    Q    F    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 39 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   F    Q    F    F    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 40 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    Q    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 41 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    Q    F    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 42 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    F    Q    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    Q    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    F    F    Q
+----------------------------------------------- 
+
+NO. 43 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    Q    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 44 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 45 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   Q    F    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    F    F    Q    F    F    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 46 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    Q    F    F    F    F
+4   Q    F    F    F    F    F    F    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 47 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 48 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    F    Q    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 49 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 50 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    Q    F    F
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 51 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    F    Q
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 52 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    F    F    Q    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    Q    F    F    F    F    F
+7   F    F    F    F    Q    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 53 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    F    F    Q    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 54 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 55 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 56 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    Q    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    F    F    Q    F    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 57 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    F    F    Q    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    Q    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 58 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    Q    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 59 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    F    Q    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 60 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    F    F    Q
+----------------------------------------------- 
+
+NO. 61 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 62 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    F    Q
+3   F    F    F    F    Q    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    Q    F    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 63 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    Q    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 64 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    Q    F    F    F    F    F
+5   Q    F    F    F    F    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   F    F    F    F    Q    F    F    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 65 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    Q    F    F    F    F
+3   F    F    F    F    F    Q    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    Q    F    F    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 66 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    Q    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 67 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 68 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    Q    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 69 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 70 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   F    F    F    F    Q    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 71 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    Q    F    F    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    Q    F    F    F    F
+8   F    F    F    F    F    F    F    Q
+----------------------------------------------- 
+
+NO. 72 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    Q    F    F    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    F    F    Q
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 73 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    F    F    Q    F    F    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    Q    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 74 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    F    F    Q    F    F    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 75 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    Q    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 76 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 77 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    F    Q    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    Q    F    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 78 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    F    F    Q    F    F    F
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    F    F    F    Q
+----------------------------------------------- 
+
+NO. 79 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    Q    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 80 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    F    F    F    Q
+4   F    F    F    Q    F    F    F    F
+5   F    F    F    F    F    F    Q    F
+6   Q    F    F    F    F    F    F    F
+7   F    F    F    F    F    Q    F    F
+8   F    Q    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 81 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    Q    F    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    Q    F    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 82 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    F    F    F    F    Q
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 83 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    Q    F    F    F    F
+4   F    F    F    F    F    Q    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    Q    F    F    F    F    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    F    F    F    Q    F
+----------------------------------------------- 
+
+NO. 84 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    Q    F    F    F    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 85 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    F    Q    F    F    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    Q    F    F    F
+6   F    F    F    F    F    F    Q    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    Q    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 86 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    Q    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    F    Q    F    F    F
+----------------------------------------------- 
+
+NO. 87 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    F    Q    F    F
+2   F    F    Q    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    Q    F    F    F    F
+----------------------------------------------- 
+
+NO. 88 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    F    F    F    F    F    Q    F
+3   F    F    Q    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    Q    F    F    F    F    F    F
+6   F    F    F    F    Q    F    F    F
+7   Q    F    F    F    F    F    F    F
+8   F    F    F    F    F    Q    F    F
+----------------------------------------------- 
+
+NO. 89 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    Q    F    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    F    F    F    Q    F
+4   F    F    Q    F    F    F    F    F
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    Q    F    F    F
+8   Q    F    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 90 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    F    F    Q    F    F    F
+2   F    Q    F    F    F    F    F    F
+3   F    F    F    Q    F    F    F    F
+4   F    F    F    F    F    F    Q    F
+5   F    F    Q    F    F    F    F    F
+6   F    F    F    F    F    F    F    Q
+7   F    F    F    F    F    Q    F    F
+8   Q    F    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 91 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    Q    F    F    F
+3   F    Q    F    F    F    F    F    F
+4   F    F    F    F    F    F    F    Q
+5   F    F    F    F    F    Q    F    F
+6   F    F    F    Q    F    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   Q    F    F    F    F    F    F    F
+----------------------------------------------- 
+
+NO. 92 :
+    a    b    c    d    e    f    g    h
+--  ---  ---  ---  ---  ---  ---  ---  ---
+1   F    F    Q    F    F    F    F    F
+2   F    F    F    F    F    Q    F    F
+3   F    F    F    Q    F    F    F    F
+4   F    Q    F    F    F    F    F    F
+5   F    F    F    F    F    F    F    Q
+6   F    F    F    F    Q    F    F    F
+7   F    F    F    F    F    F    Q    F
+8   Q    F    F    F    F    F    F    F
+----------------------------------------------- 
+
